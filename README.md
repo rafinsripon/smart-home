@@ -3,7 +3,7 @@
 An E-commerce platform for buying high quality Smart Home Appliances at extremely affordable Price.
 
 ## Live Link
-Hosted in Netlify => [Smart Home]
+Hosted in Netlify => [Smart Home Ecommerce](https://smart-home-ecommerce.netlify.app/)
 
 ## Context API
 
