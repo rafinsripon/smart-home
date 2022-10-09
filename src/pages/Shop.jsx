@@ -34,7 +34,8 @@ const Shop = () => {
                 products.map(product => <Product 
                     key={product.id}
                     product={product}
-                    handleAddToCart={handleAddToCart}/>)
+                    handleAddToCart={handleAddToCart}
+                    useState={useState}/>)
             }
         </div>
     </div>
